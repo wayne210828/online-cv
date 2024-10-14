@@ -68,7 +68,7 @@ GEM
       jekyll-theme-tactile (= 0.2.0)
       jekyll-theme-time-machine (= 0.2.0)
       jekyll-titles-from-headings (= 0.5.3)
-      jemoji (= 0.12.0)
+      jemoji (= 0.13.0)
       kramdown (= 2.4.0)
       kramdown-parser-gfm (= 1.1.0)
       liquid (= 4.0.4)
